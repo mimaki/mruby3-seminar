@@ -1,3 +1,27 @@
 mruby/
 *.lock
 .DS_Store
+
+# mruby
+*.mrb
+
+# 03app-mrb
+sample1
+
+# 04app-c-array
+sample2
+hello.c
+twice.c
+
+# 05app-c-struct
+sample3
+hello.c
+twice.c
+
+# 06grep
+mygrep
+grep.c
+
+# 07zipcode
+z2a
+zip.c
