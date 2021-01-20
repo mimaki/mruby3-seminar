@@ -18,10 +18,10 @@ mrbrun3
 hello.c
 twice.c
 
-# 06grep
+# 07grep
 mygrep
 grep.c
 
-# 07zipcode
+# 08zipcode
 z2a
 zip.c
