@@ -6,15 +6,15 @@ mruby/
 *.mrb
 
 # 03app-mrb
-sample1
+mrbrun1
 
 # 04app-c-array
-sample2
+mrbrun2
 hello.c
 twice.c
 
 # 05app-c-struct
-sample3
+mrbrun3
 hello.c
 twice.c
 
