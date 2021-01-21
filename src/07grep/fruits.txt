@@ -1,0 +1,27 @@
+Acerola
+Apple
+Apricot
+Avocado
+Banana
+Blackberry
+Blueberry
+Grape
+Grapefruit
+Guava
+Kiwifruit
+Lemon
+Lime
+Mango
+Mangosteen
+Melon
+Olive
+Orange
+Papaya
+Passion Fruit
+Peach
+Pear
+Pineapple
+Prune
+Raspberry
+Strawberry
+Watermelon
