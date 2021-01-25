@@ -4,5 +4,5 @@ MRuby::Build.new do |conf|
   # include the default GEMs
   conf.gembox 'default'
   # Use mrbgems
-  conf.gem '../09mymgem/mymgem'
+  conf.gem 'mymgem'
 end
