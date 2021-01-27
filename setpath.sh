@@ -1,1 +1,1 @@
-export PATH="$PATH:~/mruby3-seminar/mruby/bin"
+export PATH="$PATH:$HOME/mruby3-seminar/mruby/bin"
