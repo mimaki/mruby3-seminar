@@ -10,10 +10,8 @@ counter(mrb_state *mrb, mrb_value self)
   char msg[256] = {0};
 
   mrb_get_args(mrb, "|i", &n);
-  if (n != 2) {
-    snprintf(msg, sizeof(msg), "%d", (int)n);
-  }
-  strncat(msg, "倍返しだ！", sizeof(msg) - strlen(msg) - 1);
+
+  // TODO: ここにcounterの処理を記述してください
 
   return mrb_str_new_cstr(mrb, msg);
 }
